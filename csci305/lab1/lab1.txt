@@ -1,0 +1,13 @@
+Melody Tribble
+CSCI 305 Lab1
+March 14, 2017
+
+1. I like being able to access items in a list directly with a for loop without having to keep track with an index. It increases both readability and writability as compared to C or Java
+
+2. I dislike not being able to use the -- and ++ operations, although it is a pretty minor thing. Everything else is pretty easy once you get the hang of it. 
+
+3. I enjoyed learning how to set up python, learing about regular expressions, and using the dictionary structures of python. I wish there were clearer output specifications or an example of what you'd like the output to look like. I hope what I did is sufficient. 
+
+4. A lot, I'd rather not say =) If you want honest answers maybe use an anonymous poll?
+
+5. I will definataly use python again, whenever it is required for an assignment or a job, it seems great for data processing (easy loops, sweet dictionary structure etc) 
